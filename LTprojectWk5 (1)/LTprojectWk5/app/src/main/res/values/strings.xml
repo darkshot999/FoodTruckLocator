@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Food Truck</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="action_help">Help</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="action_nearMe">Trucks Near Me</string>
+    <string name="food_truck_finders">Food Truck Finders</string>
+    <string name="frontPage">Always know where your favorite food trucks are with the FoodTruck Finder! We allow you to see what is near along with tracking your favorite trucks around the city. Simply add your favorites and set a range. We will let you know as soon as your tasty favorites are close enough to enjoy</string>
+    <string name="title_activity_favorites">Favorites</string>
+    <string name="title_activity_near_me">NearMe</string>
+    <string name="near_me_header">Find Food Trucks Near You Right Now!</string>
+    <string name="near_me_body">Use our map to see what trucks are currently around you. As different trucks come into the area or open for the day, the map will update to show their current location. Check now to see if you are just mere feet from your next delicious meal.</string>
+    <string name="favorites_Header">Follow your favorites by adding them to your personalized list!</string>
+    <string name="distance">distance</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="how_many_miles_away">How many miles away?</string>
+    <string name="aboutText">The Food Truck Finder was created to help hungry people keep in touch with their local food truck, wherever they may be. This application allows user to add favorites, search by food type, location or cost. Additionally, it can also send out notification whenever a certain food truck is within a preset distance.\n\n Created by: Dustin Allderedge, Israel McCulley, Leaf Lockwood\n\n Version: 1.00.03\n\n Published: 10/24/2016\n\n Company: University of Phoenix</string>
+    <string name="helpText">If Food Truck Finder is not working please try “Force Closing” it and restarting the application.\n\n\nContact information \nPhone Number: 425.555.1699 \nEmail: Learningteam@Foodtruck.com \nAddress: 123 Fake Street Seattle, WA</string>
+    <string name="help_topics">HELP TOPICS</string>
+
+    ////////////////////////////expandableTextView strings /////////////////////////////////////////
+    <string name="expandable_text_1">I CANNOT FIND THE FOOD TRUCK THAT I AM LOOKING FOR:
+        If you cannot find the food truck that you are looking for, there may be a solution here.
+        here is where the text would appear that would have solutions to the issue that you are experiencing. </string>
+    <string name="expandable_text_2">WHY ARE MY PREFERENCES NOT WORKING?
+        If you are experiencing issues with your preferences not working, there may be a solution here.
+        here is where the text would appear that would have solutions to the issue that you are experiencing. </string>
+    <string name="expandable_text_3">WHY CAN\'T I FIND A GOOD MAN?
+        If you are experiencing issues with finding a good man, we are sorry, there are no solutions for that in this app.
+      You may try using a dating app or other application for singles.  The problem may also be your face, in which case we also cannot help you. </string>
+    <string name="HelpText2">Many issues in the app can be solved by closing and restarting the app or restarting your mobile device. If restarting your mobile device does not work, we suggest exploring the FAQ below.</string>
+
+</resources>
